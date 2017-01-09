@@ -1,4 +1,4 @@
 # isNumberKey
-Key Number Check
+Key Number Check<input  name="Phone"   placeholder="05XXYYYZZTT"  onkeypress='return isNumberKey(event)'  required />
 Example;
- <input  name="Phone"   placeholder="05XXYYYZZTT"  onkeypress='return isNumberKey(event)'  required />
+ 
